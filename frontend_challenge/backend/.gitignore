@@ -1,6 +1,10 @@
 # Dependency directories
 node_modules/
 
+# Package lock files
+package-lock.json
+yarn.lock
+
 # Environment configuration files
 .env
 .env.local
